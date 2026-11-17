@@ -117,12 +117,6 @@
 
 <div align="center">
 
-<a href="https://github.com/RonnieXyz?tab=repositories">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RonnieXyz&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=58A6FF" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/RonnieXyz?tab=repositories">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnieXyz&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=58A6FF" alt="Top Languages"/>
-</a>
 
 <br/>
 
